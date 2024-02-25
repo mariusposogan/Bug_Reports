@@ -22,6 +22,8 @@ A new page should load with information about "Primaria".
 **Actual result:**
 The 404 HTTP error code appears.
 
+![Broken Link www.fieni.ro](images/GET-SingleBoard.JPG)
+
 ***************
 
 **Title:**
