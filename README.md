@@ -22,7 +22,7 @@ A new page should load with information about "Primaria".
 **Actual result:**
 The 404 HTTP error code appears.
 
-![Broken Link www.fieni.ro](images/GET-SingleBoard.JPG)
+![Broken Link www.fieni.ro](images/Primaria.JPG)
 
 ***************
 
@@ -42,6 +42,8 @@ As the text of the video area specifies, a presentation video should start.
 **Actual result:**
 On the main page, when clicking on play button, the video is not starting
 
+![Presentation video not starting www.fieni.ro](images/Video.JPG)
+
 ***************
 
 **Title:**
@@ -59,6 +61,9 @@ Each item in the list on the page should have a logo image.
 
 **Actual result:**
 When accessing “Autorități/Instituții publice centrale” page, the logo images for each link in the list are broken.
+
+![Broken logo images](images/Logo1.JPG)
+![Broken logo images](images/Logo2.JPG)
 
 ***************
 
@@ -80,6 +85,8 @@ A new page should load with information about "Autoritățile publice locale".
 **Actual result:**
 When trying to access "Autoritățile publice locale" page, we get the 404 HTTP error code.
 
+![Broken Link www.fieni.ro](images/Primaria.JPG)
+
 ***************
 
 **Title:**
@@ -99,6 +106,7 @@ A new page should load with information about "Termeni si Conditii"
 **Actual result:**
 When trying to access "Termeni si Conditii" page, we get the 404 HTTP error code.
 
+![Broken Link www.fieni.ro](images/Term&Cond.JPG)
 
 ***************
 
